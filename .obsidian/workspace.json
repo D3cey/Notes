@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73a9d7c048888b41",
+        "id": "c1bddcb0c86746c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e3c0b387200b97ca",
+            "id": "e18d3919f9f24f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-08.md",
+                "file": "git_test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-08.md",
+                "file": "git_test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-08.md",
+                "file": "git_test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-08.md"
+                "file": "git_test.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3c0b387200b97ca",
+  "active": "e18d3919f9f24f58",
   "lastOpenFiles": [
+    "git_test.md",
+    "2023-07-08.md",
     "2023-07-07.md",
     "daftpunktocat-guy.gif",
     "regex.md",
     "Pearl.md",
-    "2023-07-08.md",
     "Untitled.md",
     "wojtek-szlug-aesthetic.jpg",
     "home/blazej/Pictures.md",

@@ -10,5 +10,6 @@
   "vimMode": true,
   "promptDelete": false,
   "useMarkdownLinks": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }

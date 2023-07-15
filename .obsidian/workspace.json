@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c1bddcb0c86746c1",
+        "id": "9668b8192e07554f",
         "type": "tabs",
         "children": [
           {
-            "id": "e18d3919f9f24f58",
+            "id": "779446398417767e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git_test.md",
-                "mode": "source",
+                "file": "Style/how-to-dress-well.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git_test.md",
+                "file": "Style/how-to-dress-well.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git_test.md",
+                "file": "Style/how-to-dress-well.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git_test.md"
+                "file": "Style/how-to-dress-well.md"
               }
             }
           }
@@ -146,15 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e18d3919f9f24f58",
+  "active": "779446398417767e",
   "lastOpenFiles": [
-    "git_test.md",
-    "2023-07-08.md",
-    "2023-07-07.md",
-    "daftpunktocat-guy.gif",
-    "regex.md",
-    "Pearl.md",
+    "Style/neutral-colors-palette.png",
+    "Style/how-to-dress-well.md",
+    "Images",
     "Untitled.md",
+    "Style",
+    "Tech",
+    "Calendar",
+    "Tech/Pearl.md",
+    "Calendar/2023-07-07.md",
+    "Calendar/2023-07-15.md",
+    "Calendar/2023-07-08.md",
+    "Tech/regex.md",
+    "git_test.md",
+    "daftpunktocat-guy.gif",
     "wojtek-szlug-aesthetic.jpg",
     "home/blazej/Pictures.md",
     "home/blazej",
